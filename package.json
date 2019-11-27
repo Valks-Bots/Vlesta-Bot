@@ -1,0 +1,32 @@
+{
+  "name": "vlesta",
+  "version": "1.0.0",
+  "description": "Powerful discord bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "valkyrienyanko",
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.1.0",
+    "opusscript": "0.0.3",
+    "random-anime-wallpapers": "^1.1.0",
+    "request": "^1.9.9",
+    "sqlite": "^2.8.0",
+    "youtube-playlist-info": "^0.1.0",
+    "youtube-search": "^1.0.9",
+    "ytdl-core": "^0.14.4"
+  },
+  "engines": {
+    "node": "8.1.1"
+  },
+  "devDependencies": {
+    "check-dependencies": "^1.0.1"
+  }
+}
